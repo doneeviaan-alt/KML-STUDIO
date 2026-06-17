@@ -1,0 +1,6 @@
+{
+  "name": "KML STUDIO TRISNO",
+  "description": "Konversi file KML atau KMZ ke format Excel dengan pemetaan koordinat otomatis, visualisasi peta interaktif, dan ekspor data yang rapi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
